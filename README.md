@@ -10,6 +10,7 @@ This project is an Arduino-based obstacle avoiding robot using L293D motor drive
 - 9V Battery
 
 ⚙️ Working
+
 The robot moves forward and detects obstacles using ultrasonic sensor. If an object is detected within range, it stops, moves back, and turns to avoid collision.
 
 💻 Simulation
